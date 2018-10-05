@@ -1,4 +1,4 @@
-%VI-based method
+%PI-based method
 clc; clear all; close all; 
 %% load data from system identification file
 A = [0 1;
